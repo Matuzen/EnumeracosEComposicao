@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes", "Enumeracoes.csproj", "{DDEBF1D2-03B4-4DC4-B3DC-09C178BEED3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEBF1D2-03B4-4DC4-B3DC-09C178BEED3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEBF1D2-03B4-4DC4-B3DC-09C178BEED3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEBF1D2-03B4-4DC4-B3DC-09C178BEED3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEBF1D2-03B4-4DC4-B3DC-09C178BEED3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42CD7AA-7ACC-4061-A02D-FD5F758B728B}
+	EndGlobalSection
+EndGlobal
